@@ -1,2 +1,2 @@
 # evolutionOfComputer_pjs_sketch
-Trying to host one of my projects on github!
+I made this to try and host one of my projects on github!
